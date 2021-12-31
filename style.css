@@ -1,0 +1,22 @@
+body{
+    background-image: url("AWHPBKimage.jpeg");
+    font-family: 'Russo One', sans-serif;
+    color:midnightblue;
+}
+a{
+    padding: 30px;
+    border-color: navy;
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: solid;
+
+}
+#back{
+    width:3%;
+}
+canvas{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: navy;
+    border-width: 2px;
+}
